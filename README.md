@@ -15,7 +15,7 @@ Hello [Your Name], New Year Whisper! Welcome to my repository featuring three be
    - An interactive web app where users can see if it's New Year or not (like this https://isitchristmas.com/) .
    - This project demonstrates rendering dynamic content using Django templates.
 
-3. To-Do List Project　（http://127.0.0.1:8000/tasks/）
+3. To-Do List Projec (http://127.0.0.1:8000/tasks/）
    - A classic to-do list application where users can add and manage their tasks.
    - This project introduces data models, forms, and user authentication (token) in a Django web app.
 
